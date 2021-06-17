@@ -113,7 +113,7 @@ padding: 0 10px;
 }
 .main_col{
     cursor: pointer;
-    width:180px;
+    width:160px;
     margin-right: 1%;
     margin-top: 20px;
     background-color: #282828;
@@ -121,7 +121,7 @@ padding: 0 10px;
     padding:10px;
     text-align: center;
 }
-.main_col h3{
+.main_col h4{
     color: white;
     margin: 8px 0;
 }
